@@ -1,0 +1,187 @@
+{
+  "users": [
+    {
+      "name": "ahmad",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "umJtOkdVHoE"
+    },
+    {
+      "name": "Ali",
+      "email": "ali@gmail.com",
+      "password": "sdddd",
+      "id": "E_5EH-vt0RY"
+    },
+    {
+      "name": "Abdullah ",
+      "email": "hh@gmail.com",
+      "password": "123Ahmad@",
+      "id": "GtBbhu6jFTA"
+    },
+    {
+      "name": "Fifth Avenue",
+      "email": "hh@gmail.com",
+      "password": "123Ahmad@",
+      "id": "-ajv7h8yLiY"
+    },
+    {
+      "name": "Fifth Avenue",
+      "email": "hh@gmail.com",
+      "password": "123Ahmad@",
+      "id": "9o4X9dhbckE"
+    },
+    {
+      "name": "ahmad",
+      "email": "hh@gmail.com",
+      "password": "123Ahmad@",
+      "id": "qFtEMFOA53w"
+    },
+    {
+      "name": "ahmad",
+      "email": "hh@gmail.com",
+      "password": "123Ahmad@",
+      "id": "lOS5FPqpLik"
+    },
+    {
+      "name": "s",
+      "email": "hh@gmail.com",
+      "password": "123Ahmad@",
+      "id": "-5V3fezya9s"
+    },
+    {
+      "name": "Ali",
+      "email": "hh@gmail.com",
+      "password": "123Ahmad@",
+      "id": "yoEGVurLxvU"
+    },
+    {
+      "name": "Ahmad",
+      "city": "db",
+      "email": "aa@gmail.com",
+      "id": "z6HoOLt8nYg"
+    },
+    {
+      "name": "ahmad",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "lwDcQTfPvkk"
+    },
+    {
+      "name": "ahmad",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "UI72_aXM01w"
+    },
+    {
+      "name": "Abdullah ",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "h0G2UcIj6bs"
+    },
+    {
+      "name": "ahmad",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "gKYqG68ZJgI"
+    },
+    {
+      "name": "Abdullah ",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "gMBv0SR6qo4"
+    },
+    {
+      "name": "ahmad",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "R9mL1y4WFaE"
+    },
+    {
+      "name": "ahmad",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "eV3hDdzEM9o"
+    },
+    {
+      "name": "ahmad",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "qy2EIVDpmrE"
+    },
+    {
+      "name": "aaa",
+      "email": "lukas.mueller@example.de",
+      "description": "saas",
+      "id": "VJVrVritjsY"
+    },
+    {
+      "name": "ah",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "LdWdk-7IbG4"
+    },
+    {
+      "name": "ahh",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "WmRM-PpEaoU"
+    },
+    {
+      "name": "Ahmad",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "p6gHvW7izyE"
+    },
+    {
+      "name": "ahmad",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "olFUM6cgd8A"
+    },
+    {
+      "name": "aaaaaaali",
+      "email": "ahmad62720@gmail.com",
+      "password": "123Ahmad@",
+      "id": "VOGGwlssa-s"
+    }
+  ],
+  "Todo": [
+    {
+      "name": "ali",
+      "email": "lukas.mueller@example.de",
+      "description": "zAxa",
+      "id": "jTza6R103Yg"
+    },
+    {
+      "name": "s",
+      "email": "lukas.mueller@example.de",
+      "description": "ssdc",
+      "id": "GDiwQqj6qSc"
+    },
+    {
+      "id": "bAWhZtowt6o",
+      "name": "dcd",
+      "email": "lukas.mueller@example.de",
+      "description": "cd"
+    },
+    {
+      "id": "fwMCZZLiWvY",
+      "name": "erf",
+      "email": "lukas.mueller@example.de",
+      "description": "fvf"
+    },
+    {
+      "id": "_zL6E2mbJfI",
+      "name": "fd",
+      "email": "lukas.mueller@example.de",
+      "description": "dc"
+    },
+    {
+      "name": "swa",
+      "email": "lukas.mueller@example.de",
+      "description": "sdsa",
+      "id": "s7Jsgohw3Zs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
